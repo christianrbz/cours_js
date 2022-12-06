@@ -1,1 +1,1 @@
-Cours de JavaScript
+Cours avec l'école Doranco sur le JavaScript
