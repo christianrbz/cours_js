@@ -1,1 +1,1 @@
-Cours avec l'école Doranco sur les bases du langage Javascript 
+Cours avec l'école Doranco sur les bases du langage JavaScript 
